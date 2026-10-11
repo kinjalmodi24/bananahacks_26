@@ -1,8 +1,9 @@
 ## RealPlate - Bananahacks 2026 Submission
 We plate what's real.
-**Made by: Cherish and **
+
+**Made by: Cherish and**
 ![Alt text](/preview.jpg)
-[Demo](http://foo.bar)
+[Demo](https://3ce4bb3ccea20ba10f.gradio.live/)
 
 ## Inspiration
 Every restaurant owner knows the struggle: professional food photography is expensive, time-consuming, and hard to update when menus change. On the flip side, snapping a quick photo on a smartphone usually results in messy lighting, distracting backgrounds, and unappealing visuals that don't do justice to the food.
