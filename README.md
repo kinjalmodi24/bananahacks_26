@@ -1,7 +1,7 @@
 ## RealPlate - Bananahacks 2026 Submission
 We plate what's real.
 
-**Made by: Cherish and**
+**Made by: Cherish and Kinjal Modi**
 ![Alt text](/preview.jpg)
 [Demo](https://3ce4bb3ccea20ba10f.gradio.live/)
 
