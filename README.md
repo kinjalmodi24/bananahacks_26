@@ -2,8 +2,10 @@
 We plate what's real.
 
 **Made by: Cherish and Kinjal Modi**
-![Alt text](/preview.jpg)
-[Demo](https://3ce4bb3ccea20ba10f.gradio.live/)
+
+![Image of RealPlate Demo App](/image.jpg)
+
+[Demo](https://018dd450b4be5b2eaf.gradio.live)
 
 ## Inspiration
 Every restaurant owner knows the struggle: professional food photography is expensive, time-consuming, and hard to update when menus change. On the flip side, snapping a quick photo on a smartphone usually results in messy lighting, distracting backgrounds, and unappealing visuals that don't do justice to the food.
