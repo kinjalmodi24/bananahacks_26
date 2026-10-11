@@ -3,7 +3,7 @@ We plate what's real.
 
 **Made by: Cherish and Kinjal Modi**
 
-![Image of RealPlate Demo App](/image.jpg)
+![Image of RealPlate Demo App](image)
 
 [Demo](https://018dd450b4be5b2eaf.gradio.live)
 
